@@ -21,8 +21,6 @@ footer.footer .footer-widgets-wrap {
 	padding:26px 0;
 }
 footer.footer .footer-widgets-wrap:after {
-	left:-100%;
-	right:-100%;
 	top:0;
 	bottom:0;
 	content:"";
